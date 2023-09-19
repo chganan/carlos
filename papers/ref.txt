@@ -1,0 +1,13 @@
+@inproceedings{Noroozian2013a,
+    author = {A. Noroozian and M. {de Weerdt} and C. Witteveen},
+    booktitle = {Proc. of Agents and Data Mining Interaction - ADMI 2012},
+    doi = {10.1007/978-3-642-36288-0_5},
+    isbn = {978-3-642-36288-0},
+    journal = {Agents and Data Mining Interaction},
+    keywords = {bittorrent,incentives for cooperation,peer to peer coordination},
+    pages = {36--50},
+    title = {{Incentivizing Cooperation in P2P File Sharing}},
+    url = {http://link.springer.com/10.1007/978-3-642-36288-0_5},
+    volume = {7607},
+    year = {2013}
+}
