@@ -1,0 +1,34 @@
+.contact-icon,
+.me-nav>li>a:hover>i,
+.text-primary,
+a:focus,
+a:hover,
+a>:focus,
+a>:hover,
+ul.social-icons li a:hover i {
+    color: #016b9f 
+}
+
+.btn-primary,
+.contact-form-trigger,
+.copyright:before,
+.label-primiary,
+.me-logo,
+.me-nav>li>a:after,
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover,
+.owl-page.active,
+.pace .pace-progress,
+.progress-bar-primary,
+.sb-primary .skill-rate-on,
+.te-primary:before {
+    background-color: #016b9f 
+}
+
+#contact-form-holder,
+.btn-primary:focus,
+.btn-primary:hover,
+.contact-form-trigger:hover {
+    background-color: #de4131
+}

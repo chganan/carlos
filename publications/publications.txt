@@ -1,0 +1,975 @@
+
+@inbook{DBLP:series/lncs/MunozEGMAG14,
+  author    = {Jose L. Munoz and
+               Oscar Esparza and
+               Carlos Gañán and
+               Jorge Mata-Diaz and
+               Juanjo Alins and
+               Ivan Ganchev},    
+  chapter = {MHT-Based Mechanism for Certificate Revocation in VANETs},
+  title = {Wireless Networking for Moving Objects - Protocols, Architectures,
+               Tools, Services and Applications},
+  pages     = {282--300},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/978-3-319-10834-6\_15},
+  doi       = {10.1007/978-3-319-10834-6\_15},
+  timestamp = {Tue, 14 May 2019 10:00:55 +0200},
+ series    = {Lecture Notes in Computer Science},
+  volume    = {8611},
+  publisher = {Springer},
+  year      = {2014},
+editor    = {Ivan Ganchev and
+               Marilia Curado and
+               Andreas Kassler},
+  isbn      = {978-3-319-10833-9},
+}
+
+
+@article{DBLP:journals/cj/CaubetGEMMA14,
+  author    = {Juan Caubet and
+               Carlos Gañán and
+               Oscar Esparza and
+               Jose L. Munozand
+               Jorge Mata-Diaz and
+               Juanjo Alins},
+  title     = {Certificate Revocation List Distribution System for the {KAD} Network},
+  journal   = {Comput. J.},
+  volume    = {57},
+  number    = {2},
+  pages     = {273--280},
+  year      = {2014},
+}
+@article{Ganan2013,
+author = {Carlos Gañán and Jose L. Munozand Oscar Esparza and Jonathan Loo and Jorge Mata-Diaz and Juanjo Alins},
+doi = {10.3233/MIS-130167},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/papers/delta-crls-vanet/trunk/src/BECSI.pdf:pdf},
+journal = {Mobile Information Systems},
+keywords = {pki,revocation,vanet},
+pages = {347--370},
+title = {{BECSI: Bandwidth efficient certificate status information distribution mechanism for VANETs}},
+url = {http://iospress.metapress.com/index/PK39M14802571J66.pdf},
+year = {2013},
+volume=4,
+}
+@inproceedings{Ganan2011,
+address = {Vilanova i la Geltru},
+author = {Carlos Gañán  and Juan Caubet and Sergi Rene and Jorge Mata-Diaz and Juanjo Alins  and oscar Esparza},
+booktitle = {Wired/Wireless Internet Communications},
+doi = {10.1007/978-3-642-21560-5\_23},
+editor = {Masip-Bruin, Xavier and Verchere, Dominique and Tsaoussidis, Vassilis and Yannuzzi, Marcelo},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/neruocast.pdf:pdf},
+isbn = {978-3-642-21559-9},
+keywords = {multi-source,p2p networks,video streaming,wireless},
+pages = {272--284},
+publisher = {Springer Berlin Heidelberg},
+series = {Lecture Notes in Computer Science},
+title = {{NeuroCast: Adaptive Multi-source P2P Video Streaming Application for Wireless Networks}},
+url = {http://dx.doi.org/10.1007/978-3-642-21560-5\_23},
+volume = {6649},
+year = {2011},
+  url = {https://chganan.github.io/carlos/papers/neruocast.pdf}
+}
+@inproceedings{Ganan2012g,
+address = {Dublin},
+author = {Carlos Gañán and Jonathan Loo and Arindam Ghosh  and Oscar Esparza and Sergi Rene and  Jose L. Munoz},
+booktitle = {Multiple Access Communications},
+doi = {10.1007/978-3-642-34976-8\_5},
+editor = {Bellalta, Boris and Vinel, Alexey and Jonsson, Magnus and Barcelo, Jaume and Maslennikov, Roman and Chatzimisios, Periklis and Malone, David},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/inter-rsu.pdf:pdf},
+isbn = {978-3-642-34975-1},
+keywords = {rsu emulation attack,rsu interference,vanet},
+pages = {49--59},
+publisher = {Springer Berlin Heidelberg},
+series = {Lecture Notes in Computer Science},
+title = {{Analysis of Inter-RSU Beaconing Interference in VANETs}},
+url = {http://dx.doi.org/10.1007/978-3-642-34976-8\_5},
+year = {2012},
+  url = {https://chganan.github.io/carlos/papers/inter-rsu.pdf}
+}
+@article{Ganan2012c,
+author = {Carlos Gañán and Jorge Mata-Diaz and Jose L. Munozand Juan Hernandez-Serrano and Oscar Esparza and Juanjo Alins},
+doi = {10.1109/TIFS.2012.2209875},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/A Modeling of Certi?cate Revocation and Its.pdf:pdf},
+issn = {1556-6013},
+journal = {IEEE Transactions on Information Forensics and Security},
+month = dec,
+number = {6},
+pages = {1673--1686},
+title = {{A Modeling of Certificate Revocation and Its Application to Synthesis of Revocation Traces}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6247505},
+volume = {7},
+year = {2012},
+  url = {https://chganan.github.io/carlos/papers/arfima.pdf}
+}
+@inproceedings{Ganan2012e,
+address = {Passau},
+author = {Carlos Gañán and Jorge Mata-Diaz and Jose L. Munozand Oscar Esparza and Juanjo Alins},
+booktitle = {Information Security},
+doi = {10.1007/978-3-642-33383-5\_24},
+editor = {Gollmann, Dieter and Freiling, FelixC.},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/self\_similarity.pdf:pdf},
+isbn = {978-3-642-33382-8},
+keywords = {Revocation,certification,public key infrastructure,re-,self-similarity},
+pages = {387--400},
+publisher = {Springer Berlin Heidelberg},
+series = {Lecture Notes in Computer Science},
+title = {{On the Self-similarity Nature of the Revocation Data}},
+url = {http://dx.doi.org/10.1007/978-3-642-33383-5\_24},
+volume = {7483},
+year = {2012},
+  url = {https://chganan.github.io/carlos/papers/self_similarity.pdf}
+}
+@inproceedings{Ganan2012f,
+address = {Yokohama},
+author = {Carlos Gañán and Jose L. Munozand Oscar Esparza and Jorge Mata-Diaz and Juanjo Alins and Carlos Silva-Cardenas and Gumercindo Bartra-Gardini},
+booktitle = {2012 IEEE 75th Vehicular Technology Conference (VTC Spring)},
+doi = {10.1109/VETECS.2012.6239941},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/rar\_risk\_in\_vanet.pdf:pdf},
+isbn = {978-1-4673-0990-5},
+issn = {1556-6013},
+month = may,
+number = {6},
+pages = {1--5},
+publisher = {IEEE},
+title = {{RAR: Risk Aware Revocation Mechanism for Vehicular Networks}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6247505 http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6239941},
+volume = {7},
+year = {2012},
+  url = {https://chganan.github.io/carlos/papers/rar_risk_in_vanet.pdf}
+}
+@article{Ganan2014,
+author = {Carlos Gañán and Jose L. Munozand Oscar Esparza  and Jorge Mata-Diaz and Juanjo Alins},
+doi = {10.1016/j.csi.2013.08.002},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/pprem.pdf:pdf},
+issn = {09205489},
+journal = {Computer Standards \& Interfaces},
+keywords = {One way accumulators,Privacy,Revocation,VANET},
+month = march,
+publisher = {Elsevier B.V.},
+title = {{PPREM: Privacy Preserving REvocation Mechanism for Vehicular Ad Hoc Networks}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0920548913000810},
+year = {2014},
+volume = "36",
+number = "3",
+pages = "513 - 523",
+url = {https://chganan.github.io/carlos/papers/pprem.pdf}
+}
+@article{Ganan2012a,
+author = {Carlos Gañán  and  Jose L. Munozand Oscar Esparza and Jorge Mata-Diaz and Juan Hernandez-Serrano  and Juanjo Alins},
+doi = {10.1016/j.jnca.2012.02.006},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/COACH.pdf:pdf},
+issn = {10848045},
+journal = {Journal of Network and Computer Applications},
+month = sep,
+number = {5},
+pages = {1337--1351},
+title = {{COACH: COllaborative certificate stAtus CHecking mechanism for VANETs}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S1084804512000616},
+volume = {36},
+year = {2013},
+url = {https://chganan.github.io/carlos/papers/COACH.pdf}
+}
+@inproceedings{Ganan2012b,
+address = {Hong Kong},
+author =  {Carlos Gañán and Jose L. Munozand Oscar Esparza  and Jorge Mata-Diaz and Juanjo Alins},
+booktitle = {Information and Communications Security},
+doi = {10.1007/978-3-642-34129-8\_3},
+editor = {Chim, TatWing and Yuen, TszHon},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/pricing\_CRLs.pdf:pdf},
+isbn = {978-3-642-34128-1},
+keywords = {crls,pki pricing,ssl certificates},
+pages = {22--32},
+publisher = {Springer Berlin Heidelberg},
+series = {Lecture Notes in Computer Science},
+title = {{Impact of the Revocation Service in PKI Prices}},
+url = {http://dx.doi.org/10.1007/978-3-642-34129-8\_3},
+volume = {7618},
+year = {2012},
+url = {https://chganan.github.io/carlos/papers/pricing_CRLs.pdf}
+}
+@article{Ganan2012,
+author =  {Carlos Gañán and Jose L. Munozand Oscar Esparza  and Jorge Mata-Diaz and Juanjo Alins},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/ijicic-ksi-07.pdf:pdf},
+journal = {International Journal of Innovative Computing, Information and Control (IJICIC)},
+number = {11},
+pages = {7925--7942},
+title = {{Risk-based decision making for Public Key Infrastructure using fuzzy logic}},
+url = {http://www.ijicic.org/ijicic-ksi-07.pdf},
+volume = {8},
+year = {2012},
+url = {https://chganan.github.io/carlos/papers/ijicic-ksi-07.pdf}
+}
+@inproceedings{Ganan2012d,
+address = {Vilnius},
+author =  {Carlos Gañán and Jose L. Munozand Oscar Esparza  and Jorge Mata-Diaz and Juanjo Alins},
+booktitle = {Communication Technologies for Vehicles},
+doi = {10.1007/978-3-642-29667-3\_7},
+editor = {Vinel, Alexey and Mehmood, Rashid and Berbineau, Marion and Garcia, CristinaRico and Huang, Chung-Ming and Chilamkurti, Naveen},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/auth\_structures.pdf:pdf},
+isbn = {978-3-642-29666-6},
+keywords = {authenticated data structures,certification,pki},
+pages = {80--90},
+publisher = {Springer Berlin Heidelberg},
+series = {Lecture Notes in Computer Science},
+title = {{Toward Revocation Data Handling Efficiency in VANETs}},
+url = {http://dx.doi.org/10.1007/978-3-642-29667-3\_7},
+volume = {7266},
+year = {2012},
+url = {https://chganan.github.io/carlos/papers/auth_structures.pdf}
+}
+@article{Hernandez-Serrano2012,
+author = {Juan Hernandez-Serrano and Juan Vera-del-Campo and Josep Pegueroles and Carlos Gañán},
+doi = {10.1007/s11276-012-0450-3},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/low-cost-rekeying-wsn.pdf:pdf},
+isbn = {1127601204503},
+issn = {1022-0038},
+journal = {Wireless Networks},
+keywords = {rekeying \'{a} security \'{a},sensors,wsn \'{a} gkm \'{a}},
+month = may,
+title = {{Low-cost group rekeying for unattended wireless sensor networks}},
+url = {http://www.springerlink.com/index/10.1007/s11276-012-0450-3},
+volume = {19},
+pages = {47--67},
+year = {2012},
+url = {https://chganan.github.io/carlos/papers/low-cost-rekeying-wsn.pdf}
+}
+@inproceedings{Munoz2009,
+address = {Brussels},
+author = {Jose L. Munoz and Oscar Esparza  and Carlos Gañán and Javier Parra-Arnau},
+booktitle = {Ifip International Federation For Information Processing},
+url = {http://upcommons.upc.edu/e-prints/bitstream/2117/11856/1/wistp09_munoz.pdf},
+keywords = {certification,public key infrastructure,revocation},
+pages = {153--166},
+publisher = {Springer Berlin Heidelberg},
+title = {{PKIX Certificate Status in Hybrid MANETs}},
+year = {2009},
+url = {https://chganan.github.io/carlos/papers/wistp09.pdf}
+}
+@inproceedings{Rene2011,
+address = {Sant Joan d'Espi},
+author = {Sergi Rene and Carlos Gañán and Juan Caubet and Juanjo Alins and  Jorge Mata-Diaz and Jose L. Munoz},
+booktitle = {INFOCOMP},
+file = {:C$\backslash$:/Users/Carlos/Dropbox/my\_publications/infocomp\_2011\_5\_10\_10144.pdf:pdf},
+isbn = {9781612081618},
+number = {c},
+pages = {92--97},
+title = {{Analysis of Video Streaming Performance in Vehicular Networks}},
+year = {2011},
+url={http://www.thinkmind.org/download.php?articleid=infocomp_2011_5_10_10144}
+}
+
+@PhdThesis{Ganan:Doctoral,
+  author =   {Carlos Gañán},
+  title =  {Certificate Status Information Distribution and Validation in vehicular networks},
+  organization = {Department of Telematics},
+  school =   {Univesitat Politecnica de Catalunya},
+  year =   {2013},
+  type =   {Doctoral Dissertation},
+  url = {https://chganan.github.io/carlos/papers/thesis.pdf}
+}
+
+@MastersThesis{Ganan:Neurocast,
+  author =   {Carlos Gañán},
+  title = {Scalable Multi-Sourcer Video Streaming Application over P2P networks},
+  type = {Master's Thesis},
+  organization = {Department of Telematics},
+  school =   {Univesitat Politecnica de Catalunya},
+  year = {2009},
+  month =    {September},
+  url = {https://chganan.github.io/carlos/papers/neurocast.pdf}
+}
+
+@MastersThesis{Ganan:wsn,
+  author =   {Carlos Gañán},
+  title = {Energy Management Architexture for Wireless Sensor Networks},
+  type = {Master's Thesis},
+  organization = {Philips Connectivity Group},
+  school = {Koninklijke Philips Electronics},
+  year = {2008},
+  month =    {March},
+  url = {https://chganan.github.io/carlos/papers/pfc.pdf}
+}
+
+@conference{493,
+	title = {Gestion del riesgo inherente en la revocacion de certificados de redes vehiculares},
+	year = {2012},
+	month = {September},
+	booktitle = {RECSI 2012 - XII Reunion Espanola sobre Criptologia y Seguridad de la Informacion},
+	organization = {Monadragon Unibersitatea},
+	keywords = {revocation, risk},
+	pages=10,
+	author = {Carlos Gañán and Jose L. Munozand M. F. Hinarejos and A. Isern and Juanjo Alins}
+}
+
+@conference{493,
+	title = {Estructuras de datos autenticadas para gestionar datos de revocacion en VANETs},
+	year = {2012},
+	month = {September},
+	booktitle = {RECSI 2012 - XII Reunion Espanola sobre Criptologia y Seguridad de la Informacion},
+	organization = {Monadragon Unibersitatea},
+	pages=10,
+	author = {Carlos Gañán and Jose L. Munozand M. F. Hinarejos and A. Isern and Juanjo Alins}
+}
+
+
+@conference{494,
+	title = {Un Esquema de Pago Seguro mediante Multicupones para Escenarios Multi-Comerciante},
+	year = {2012},
+	month = {September},
+	booktitle = {RECSI 2012 - XII Reunion Espanola sobre Criptologia y Seguridad de la Informacion},
+	organization = {Monadragon Unibersitatea},
+	keywords = {pago, seguro},
+	pages=10,
+	author = {A. Isern and M. F. Hinarejos and J. Ferrer and M. Palleras and Carlos Gañán  and J. L. Munozand Jordi Forne and Oscar Esparza}
+}
+
+
+
+@conference{jitel11,
+	title = {Aplicacion adaptativa multi-fuente para streaming de video en redes P2P inalambricas},
+	year = {2011},
+	month = {September},
+	booktitle = {Jitel 2011 - VIII Jornadas de Ingenieria Telematica },
+	organization = {Universidad de Cantabria },
+	pages=10,
+	author = {Juan Caubet and Carlos Gañán  and Sergi Rene and Juanjo Alins and Jorge Mata-Diaz  }
+}
+
+@conference{jitel09-1,
+	title = {Mecanismo para evitar ataques por confabulacion basados en code passing},
+	year = {2009},
+	month = {September},
+	booktitle = {Jitel 2009 - VII Jornadas de Ingenieria Telematica },
+	organization = {Universidad de Cartagena },
+	pages=10,
+	author = {Marc Jaimez and Oscar Esparza and Carlos Gañán and Jarvier Parra-Arnau}
+}
+
+@conference{jitel09-2,
+	title = {Nuevo criterio para la estimacion de informacion de estado de certificados en MANET},
+	year = {2009},
+	month = {September},
+	pages=8,
+	booktitle = {Jitel 2009 - VII Jornadas de Ingenieria Telematica },
+	organization = {Universidad de Cartagena },
+	author = {Jose L. Munozand Jarvier Parra-Arnau and Carlos Gañán and Marc Jaimez}
+}
+
+@conference{jitel13,
+	title = {Impacto de las unidades a pie de carretera en las interferencias en redes vehiculares},
+	year = {2013},
+	month = {October},
+	pages=10,
+	booktitle = {Jitel 2013 - IX Jornadas de Ingenieria Telematica },
+	organization = {Universidad de Granada},
+	author = {Carlos Gañán and Sergi Rene and Jorge Mata-Diaz and Juanjo Alins}
+}
+@conference{jitel13,
+	title = {CRL Issuing Mechanism for the KAD Network},
+	year = {2013},
+	month = {October},
+	booktitle = {Jitel 2013 - IX Jornadas de Ingenieria Telematica },
+	organization = {Universidad de Granada},
+	pages=12,
+	author = {Juan Caubet and Carlos Gañán and Oscar Esparza and Jose L. Munoz}
+}
+
+@inproceedings{pewasun2013,
+ author = {Carlos Gañán and Sergi Rene and Jose L. Munozand Oscar Esparza and Jorge Mata-Diaz and Juanjo Alins},
+ title = {{Secure Handoffs for V2I Communications in 802.11 Networks}},
+ booktitle = {Proceedings of the 10th ACM symposium on Performance evaluation of wireless ad hoc, sensor, and ubiquitous networks},
+ series = {PE-WASUN '13},
+ year = {2013},
+ isbn = {978-1-4503-1621-7},
+pages = {0--8},
+ location = {Barcelona, Spain},
+url = {https://chganan.github.io/carlos/papers/pewasun.pdf}
+}
+
+
+
+
+@article{kais,
+  author    = {Carlos Gañán and
+               Jorge Mata-Diaz  and
+               Jose L. Munozand
+               Oscar Esparza and
+               Juanjo Alins},
+  title     = {A model for revocation forecasting in public-key infrastructures},
+  journal   = {Knowl. Inf. Syst.},
+  volume    = {43},
+  number    = {2},
+  pages     = {311--331},
+  year      = {2015},
+url = {https://chganan.github.io/carlos/papers/AModelForRevocationForecasting.pdf}
+}
+
+
+@article{ReneAMGME14,
+  author    = {Sergi Rene and
+               Juanjo Alins and
+               Jorge Mata-Diaz  and
+               Carlos Gañán and
+               Jose L. Munozand
+               Oscar Esparza},
+  title     = {{VESPA}: Emulating Infotainment Applications in Vehicular Networks},
+  journal   = {{IEEE} Pervasive Computing},
+  volume    = {13},
+  number    = {3},
+  pages     = {58--66},
+  year      = {2014},
+url = {https://chganan.github.io/carlos/papers/vespa.pdf}
+}
+
+
+@inproceedings{AsiaCCS,
+    author    = { Carlos Gañán and Orcun Cetin and Michel van Eeten},
+    title = {An empirical analysis of ZeuS C\&C lifetime},
+    booktitle = {10th ACM Symposium on Information, Computer and Communications Security},
+    series={AsiaCCS 2015},
+    year= {2015},
+pages = {1--12},
+    location={Singapore},
+url = {https://chganan.github.io/carlos/papers/zeus_lifetime.pdf}
+}
+    
+@inproceedings{tajalizadehkhoob2014them,
+  title={Why Them? Extracting Intelligence about Target Selection from Zeus Financial Malware},
+  author={Samaneh Tajalizadehkhoob  and  Hadi Asghari  and Carlos Gañán and Michel van Eeten},
+  booktitle={13th Annual Workshop on Economics of Information Security (WEIS) 2014},
+  year={2014},
+pages = {1--30},
+  organization={WEIS Proceeding},
+url = {https://chganan.github.io/carlos/papers/target_selection.pdf}
+}
+
+@inproceedings{cetinunderstanding,
+  title={Understanding the Role of Sender Reputation in Abuse Reporting and Cleanup},
+  author={Orcun Cetin and Mohammad Hanif and Gañán and Michel van Eeten and Tyler Moore},
+ year={2015},
+pages = {1--15},
+  booktitle={15th Annual Workshop on Economics of Information Security (WEIS) 2015},
+url = {https://chganan.github.io/carlos/papers/WEIS_2015_cetin.pdf}
+}
+
+@inproceedings{ifip15,
+  author    = {Giovane Moura and  Carlos Gañán and Qasim Lone and Payam Poursaied and Hadi Asghari and Michel van Eeten},
+  title     = {How Dynamic is the ISPs Address Space? Towards Internet-Wide DHCP Churn Estimation},
+  booktitle = {IRTF & ISOC Workshop on Research and Applications of Internet Measurements (RAIM) },
+  year= {2015},
+location={Yokohama, Japan},
+pages = {1--14},
+url = {https://chganan.github.io/carlos/papers/churn.pdf}
+}
+
+@article{ganan2015epa,
+  title={EPA: an efficient and privacy-aware revocation mechanism for vehicular ad hoc networks},
+  author={Carlos Gañán and Jose Munoz and  Oscar Esparza and Jorge Mata-Diaz and  Juanjo Alins},
+  journal={Pervasive and Mobile Computing},
+  volume={21},
+  pages={75--91},
+  year={2015},
+  publisher={Elsevier},
+url = {https://chganan.github.io/carlos/papers/epa.pdf}
+}
+
+@inproceedings{tajalizadehkhoob2016apples,
+  title={Apples, oranges and hosting providers: Heterogeneity and security in the hosting market},
+  author={ Samaneh Tajalizadehkhoob and Maciej Korczynski and Arman  Noroozian and Carlos  Gañán and Michel van Eeten},
+  booktitle={Network Operations and Management Symposium (NOMS), 2016 IEEE/IFIP},
+  pages={289--297},
+  year={2016},
+  organization={IEEE},
+url = {https://chganan.github.io/carlos/papers/Noms16Tajalizadehkhoob.pdf}
+}
+
+@article{cetin2016understanding,
+  title={Understanding the role of sender reputation in abuse reporting and cleanup},
+  author={Cetin, Orcun and Hanif Jhaveri, Mohammad and Gañán Carlos and van Eeten, Michel and Moore, Tyler},
+  journal={Journal of Cybersecurity},
+  volume={2},
+  number={1},
+  pages={83--98},
+  year={2016},
+  publisher={Oxford University Press},
+url = {https://chganan.github.io/carlos/papers/RAID16Noroozian.pdf}
+}
+
+@inproceedings{noroozian2016gets,
+  title={Who gets the boot? Analyzing victimization by DDoS-as-a-Service},
+  author={Noroozian, Arman and Korczynski, Maciej and Gañán, Carlos Hernandez and Makita, Daisuke and Yoshioka, Katsunari and van Eeten, Michel},
+  booktitle={International Symposium on Research in Attacks, Intrusions, and Defenses},
+  pages={368--389},
+  year={2016},
+  organization={Springer International Publishing},
+url = {https://chganan.github.io/carlos/papers/RAID16Noroozian.pdf}
+}
+
+@article{jhaveri2017abuse,
+  title={Abuse reporting and the fight against cybercrime},
+  author={Jhaveri, Mohammad Hanif and Cetin, Orcun and Gañán Carlos and Moore, Tyler and Eeten, Michel Van},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={49},
+  number={4},
+  pages={68},
+  year={2017},
+  publisher={ACM},
+url = {https://chganan.github.io/carlos/papers/abuse_reporting.pdf}
+}
+
+
+
+@inproceedings{tajalizadehkhoob2017role,
+  title={The Role of Hosting Providers in Fighting Command and Control Infrastructure of Financial Malware},
+  author={Samaneh  Tajalizadehkhoob and Carlos Gañán and Arman Noroozian and Michel van Eeten},
+  booktitle={Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security},
+  pages={575--586},
+  year={2017},
+  organization={ACM},
+url = {https://chganan.github.io/carlos/papers/role_hosting.pdf}
+}
+@inproceedings{cetinunnot,
+  title={Make Notifications Great Again: Learning How to Notify in the Age of Large-Scale Vulnerability Scanning},
+  author={Orcun Cetin, Carlos Ganan, Maciej Korczynski and Michel van Eeten},
+ year={2017},
+pages = {1--15},
+  booktitle={17th Annual Workshop on Economics of Information Security (WEIS) 2017},
+url = {https://chganan.github.io/carlos/papers/make_notifications.pdf}
+
+}
+
+@inproceedings{willem,
+  title={Risk Management for Third Party Payment Networks},
+  author={Willem van Driel, Carlos Ga\F1\E1n, Maikel Lobbezoo, and Michel van Eeten},
+ year={2016},
+pages = {1--15},
+  booktitle={16th Annual Workshop on Economics of Information Security (WEIS) 2016},
+url = {https://chganan.github.io/carlos/papers/risk_management.pdf}
+
+}
+
+@inproceedings{markus,
+  title={Estimating the costs of consumer-facing cybercrime: A tailored instrument and representative data for six EU countries},
+  author={Markus Riek, Rainer B\F6hme, Michael Ciere, Carlos Ganan, and Michel van Eeten},
+ year={2016},
+pages = {1--15},
+  booktitle={16th Annual Workshop on Economics of Information Security (WEIS) 2016},
+url = {https://chganan.github.io/carlos/papers/estimating_cost.pdf}
+
+}
+
+@inproceedings{ciere,
+  title={Partial Device Fingerprints},
+  author={Michael Ciere and Carlos Ganan and  Michel van Eeten},
+ year={2017},
+pages = {1--15},
+  booktitle={ECML PKDD 2017},
+url = {https://chganan.github.io/carlos/papers/PartialDeviceFingerprints.pdf}
+}
+
+
+@inproceedings{ganancrime,
+  title={Beyond the pretty penny: the economic impact of cybercrime},
+  author={Carlos Ganan and  Michael Ciere and   Michel van Eeten},
+ year={2017},
+pages = {1--15},
+  booktitle={New Security Paradigms Workshop},
+url = {https://chganan.github.io/carlos/papers/pretty_penny.pdf}
+}
+
+@article{tajalizadehkhoob2018rotten,
+  title={Rotten Apples or bad harvest? What we are measuring when we are measuring abuse},
+  author={Samaneh Tajalizadehkhoob and Rainer Boehme and  Carlos Ganan and Maciej Korczynski and Michel van Eeten},
+  journal={ACM Transactions on Internet Technology (TOIT)},
+  volume={18},
+  number={4},
+  pages={49},
+  year={2018},
+  publisher={ACM},
+url = {https://chganan.github.io/carlos/papers/rotten_apples.pdf}
+}
+
+@inproceedings{van2018plug,
+  title={Plug and prey? measuring the commoditization of cybercrime via online anonymous markets},
+  author={Rolf van Wegberg and Samaneh Tajalizadehkhoob and Kyle Soska and Ugur Akyazi and Carlos Gañán  and Bram Klievink and Nicolas Christin and Michel van Eeten},
+  booktitle={27th USENIX Security Symposium (USENIX Security 18)},
+  pages={1009--1026},
+  year={2018},
+  organization={USENIX$\}$ Association$\}$},
+url = {https://chganan.github.io/carlos/papers/soups2018-cetin.pdf}
+}
+
+@inproceedings{ccetin2018let,
+  title={Let Me Out! Evaluating the Effectiveness of Quarantining Compromised Users in Walled Gardens},
+  author={Orcun Cetin and Lisette Altena and Carlos Gañán  and Michel van Eeten},
+  booktitle={Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018)},
+    pages={12},
+  year={2018},
+url = {https://chganan.github.io/carlos/papers/tell_me.pdf}
+}
+
+@inproceedings{ccetin2019fix,
+  title={ Tell Me You Fixed It: Evaluating VulnerabilityNotifications via Quarantine Networks. },
+  author={Orcun Cetin and Carlos Gañán  and Lisette Altena and  Samaneh  Tajalizadehkhoob and Michel van Eeten},
+  booktitle={Euro S&P 2019},
+ 
+  pages={326--339},
+  year={2019},
+url = {https://chganan.github.io/carlos/papers/tell_me.pdf}
+}
+
+
+@inproceedings{morishita2019detect,
+  title={Detect Me If You... Oh Wait. An Internet-Wide View of Self-Revealing Honeypots},
+  author={Shun  Morishita and Takuya Hoizumi and Wataru Ueno and Rui Tanabe and Carlos  Gañán and Michel van Eeten and Katusnari Yoshioka and Tsutomu Matsumoto},
+  year={2019},
+booktitle={IFIP/IEEE Symposium on Integrated Network and Service
+Management (IM2019)},    pages={12},
+  publisher={IEEE},
+url = {https://chganan.github.io/carlos/papers/detect_me.pdf}
+}
+
+@inproceedings{cetin2019cleaning,
+  title={Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai},
+  author={Orcun Cetin and Carlos Gañán and Lisette  Altena and Takahiro Kasama and Daisuke Inoue and Kazuki Tamiya and Ying Tie and Katsunari Yoshioka and Michel van Eeten},
+booktitle={Network and Distributed Systems Security (NDSS) Symposium 2019},    pages={12},
+  year={2019},
+url = {https://chganan.github.io/carlos/papers/clean_up.pdf}
+}
+
+@inproceedings{nadeem2019malpaca,
+  title={MalPaCA: Malware Packet Sequence Clustering and Analysis},
+  author={Azqa  Nadeem and Christian Hammerschmidt and Carlos Gañán and Sicco Verwer},
+  booktitle={arXiv preprint arXiv:1904.01371},    pages={12},
+  year={2019},
+url = {https://chganan.github.io/carlos/papers/malpaca.pdf}
+}
+
+
+@inproceedings{anderson2019measuring,
+	title={Measuring the Changing Cost of Cybercrime},
+	author={Ross  Anderson and Chris Barton and Rainer Bohme and Richard  Clayton and Carlos Gañán and Tom  Grasso and Michael Levi and Tyler Moore and Marie Vasek}, 
+	booktitle={18th Workshop on the Economics of Information Security (WEIS 2019)},
+	keywords={top5},pages={15},
+	year={2019},
+url = {https://chganan.github.io/carlos/papers/update_cost.pdf}
+}
+
+@inproceedings{noroozian2019platforms,
+  title={Platforms in Everything: Analyzing Ground-Truth Data on the Anatomy and Economics of Bullet-Proof Hosting},
+  author={Arman Noroozian and Jan Koenders and Eelco  van Veldhuizen and Carlos Gañán  and Sumayah Alrwais and Damon McCoy and Michel van Eeten},
+  booktitle={28th USENIX Security Symposium (USENIX Security 19)},
+  pages={1341--1356},
+  year={2019},
+url = {https://chganan.github.io/carlos/papers/sec19-noroozian.pdf}
+
+}
+
+
+@article{sasaki2020,
+  title={Pay the Piper: DDoS mitigation technique to deter financially-motivated attackers},
+  author={Takayuki Sasaki and Carlos Gañán and Katsunari Yoshioka and Michel van Eeten and Tsutomu Matsumoto},
+  journal={IEICE Trans. Communications},
+  volume={1},
+  number={10},
+  pages={15},
+  year={2020},
+  publisher={IEICE},
+url = {https://chganan.github.io/carlos/papers/piper.pdf}
+}
+@techreport{de2017towards,
+  title={Towards a new cyber threat actor typology},
+  author={Mark de Bruijne and Michel van Eeten and Carlos Gañán and Wolter Pieters}, 
+  institution={Delft University of Technology},
+number={1},
+type={NCTV Report}, 
+  year={2017},
+url = {https://chganan.github.io/carlos/papers/actor_typology.pdf}
+}
+
+@inproceedings{lone2020saving,
+  title={SAVing the Internet: Explaining the Adoption of Source Address Validation by Internet Service Providers},
+  author={Qasim Lone and Maciej Korczynski and Carlos Gañán and Michel van Eeten},
+  booktitle={Workshop on the Economics of Information Security},
+  url={https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final31.pdf},
+  year={2020}
+}
+
+@inproceedings{tanabe2020disposable,
+  title={Disposable botnets: examining the anatomy of iot botnet infrastructure},
+  author={Rui Tanabe and Tatsuya Tamai and Akira Fujita and Ryoichi Isawa and Katsunari Yoshioka and Tsutomo Matsumoto and Carlos Gañán and Michel van Eeten},
+  booktitle={Proceedings of the 15th International Conference on Availability, Reliability and Security (RAID 2020)},
+  pages={1--10},
+url={https://chganan.github.io/carlos/papers/disposable.pdf},
+  year={2020}
+}
+
+@inproceedings{schrama2020understanding,
+  title={Understanding the Knowledge Gap: How Security Awareness Influences the Adoption of Industrial IoT},
+  author={Verena Schrama and Carlos Gañán and Doris Aschenbrenner and Mark de Reuver and Kevin Borgolte and Tobias Fiebig},
+  booktitle={20th Annual Workshop on the Economics of Information Security (WEIS 2020)},
+  pages={1--17},
+  url={https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final23.pdf},
+  year={2020}
+}
+
+@incollection{nadeem2021beyond,
+  title={Beyond Labeling: Using Clustering to Build Network Behavioral Profiles of Malware Families},
+  author={Azqa Nadeem and Christian Hammerschmidt and Carlos Gañán and Sicco Verwer},
+  booktitle={Malware Analysis Using Artificial Intelligence and Deep Learning},
+  pages={381--409},
+  year={2021},
+  url={https://pure.tudelft.nl/admin/files/126189378/Nadeem2021_Chapter_BeyondLabelingUsingClusteringT.pdf},
+  publisher={Springer, Cham}
+}
+
+@inproceedings{ganan2020beneath,
+  title={Beneath the radar: Exploring the economics of business fraud via underground markets},
+  author={Carlos Gañán and Ugur Akyazi and Elena Tsvetkova},
+  booktitle={2020 APWG Symposium on Electronic Crime Research (eCrime)},pages={12},
+  url={https://docs.apwg.org/ecrimeresearch/2020/77\_Beneath\_the\_radar\_ecrime\_ganan.pdf},
+  year={2020}
+}
+
+@inproceedings{fiebig2021heads,
+  title={Heads in the Clouds: Measuring the Implications of Universities Migrating to Public Clouds},
+  author={Tobias Fiebig and Seda Gürses and Carlos Gañán and Erna Kotkamp and Fernando Kuipers and Martina Lindorfer and Mengha Prisse and Tarihtha Sari},
+  booktitle={arXiv preprint arXiv:2104.09462},pages={12},
+url={https://arxiv.org/pdf/2104.09462},
+  year={2021}
+}
+
+@inproceedings{vermeer2021sok,
+  title={SoK: A Framework for Asset Discovery: Systematizing Advances in Network Measurements for Protecting Organizations},
+  author={Mathew Vermeer and Jonathan West and Alejandro Cuevas and Shuonan Niu and Nicolas Christins and Michel van Eeten and Tobias Fiebig and Carlos Gañán and Tyler Moore},
+  booktitle={Proceedings of the 6th IEEE European Symposium on Security \& Privacy (EuroS\&P)},pages={12},
+url={https://oaklandsok.github.io/papers/vermeer2021.pdf},
+  year={2021}
+}
+
+@inproceedings{akyazi2021measuring,
+  title={Measuring Cybercrime as a Service (CaaS) Offerings in a Cybercrime Forum},
+  author={Ugur Akyazi and Michel van Eeten and Carlos Gañán},pages={14},
+  booktitle={20th Annual Workshop on the Economics of Information Security (WEIS 2021)},
+url={https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-akyazi.pdf},
+  year={2021}
+}
+
+@inproceedings{rodriguez2021super,
+  title={Super-Spreaders: Quantifying the Role of IoT Manufacturers in Device Infections},
+  author={Elsa Rodriguez and Arman Noroozian and Michel van Eeten and Carlos Gañán},
+  booktitle={20th Annual Workshop on the Economics of Information Security (WEIS 2021)},pages={12},
+url={https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-rodriguez.pdf},
+  year={2021}
+}
+
+@inproceedings{noroozian2021can,
+  title={Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP Security Efforts},
+  author={Arman Noroozian and Elsa Rodriguez and Elmer Lastdrager and Takahiro Kasama and Michel van Eeten and Carlos Gañán},
+  booktitle={Proceedings of the 6th IEEE European Symposium on Security \& Privacy (EuroS\&P)},pages={12},
+url={https://ieeexplore.ieee.org/document/9581172/},
+  year={2021}
+}
+
+@inproceedings{bouwmeester2021thing,
+  title={"The Thing Doesn't Have a Name": Learning from Emergent Real-World Interventions in Smart Home Security},
+  author={Brennen Bouwmeester and Elsa Rodríguez and Carlos Gañán and Michel van Eeten and Simon Parkin},
+  booktitle={Seventeenth Symposium on Usable Privacy and Security (SOUPS 2021)},pages={12},
+url={https://www.usenix.org/system/files/soups2021-bouwmeester.pdf},
+  year={2021}
+}
+
+@inproceedings{ganan2021whois,
+  title={WHOIS sunset? A primer in Registration Data Access Protocol (RDAP) performance},
+  author={Carlos Gañán},pages={12},
+  booktitle={5th edition of the Network Traffic Measurement and Analysis Conference (TMA Conference 2021)},
+url={https://tma.ifip.org/2021/wp-content/uploads/sites/10/2021/08/tma2021-paper16.pdf},
+  year={2021}
+}
+
+@inproceedings{bouwman2022helping,
+  title={Helping hands: Measuring the impact of a large threat intelligence sharing community},
+  author={Xander Bouwman and Victor Le Pochat and Pawel Foremski and Tom van Goethem and Carlos Gañán and Giovane Moura and Samaneh Tajalizadehkhoob and Wouter Joosen and Michel van Eeten},
+  booktitle={Proceedings of the 31st USENIX Security Symposium},
+  year={2022},pages={12},
+url={https://www.usenix.org/system/files/sec22summer_bouwman.pdf},
+  organization={USENIX Association}
+}
+
+@inproceedings{rodriguez2022difficult,
+  title={Difficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT Malware},
+  author={ER Rodriguez and MCS Fukkink and SE Parkin and MJG van Eeten and Carlos Gañán},
+  booktitle={7th IEEE European Symposium on Security and Privacy},
+  year={2022},pages={12},
+url={https://arxiv.org/pdf/2203.01683},
+  organization={IEEE Society}
+}
+
+@inproceedings{d2021nurse,
+  title={NURSE: eNd-UseR IoT malware detection tool for Smart homEs},
+  author={Antoine d’Estalenx and Carlos Gañán},
+  booktitle={11th International Conference on the Internet of Things (IoTConf 2021)},
+  year={2021},pages={12},
+  url={https://chganan.github.io/carlos/papers/NURSE_IoTConf.pdf},
+  organization={ACM}
+}
+
+@inproceedings{vermeer2022asia,
+  title={Ruling the Rules: Quantifying the Evolution of Rulesets, Alerts and Incidents in Network Intrusion Detection},
+  author={Mathew Vermeer and Michel van Eeten  and Carlos Gañán},
+  booktitle={Proceedings of the 17th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2022)},pages={12},
+url={https://chganan.github.io/carlos/papers/rules-asiaccs.pdf},
+  year={2022}
+}
+@inproceedings{arwa2022asia,
+  title={No Spring Chicken: Quantifying the Lifespan of Exploits in IoT Malware Using Static and Dynamic Analysis},
+  author={Arwa Abdulkarim Al Alsadi and Kaichi Sameshima and Jakob Bleier and Katsunari Yoshioka and Martina Lindorfer and
+Michel van Eeten and Carlos H. Gañán},
+  booktitle={Proceedings of the 17th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2022)},pages={12},
+url={https://chganan.github.io/carlos/papers/iot-malware-asiaccs.pdf},
+  year={2022}
+}
+
+@inproceedings{lone2022sp,
+  title={Deployment of Source Address Validation by Network Operators: A Randomized Control Trial},
+  author={Qasim Lone and Alisa Frik and Matthew Luckie and Maciej Korczynski and Michel van Eeten and Carlos Gañán},
+  booktitle={Proceedings of the 43rd IEEE Symposium on
+Security and Privacy (S&P 2022)},pages={12},
+url={https://chganan.github.io/carlos/papers/sav-sp.pdf},
+  year={2022}
+}
+
+@inproceedings{taka2022sp,
+  title={Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices},
+  author={Takayuki Sasaki and Akira Fujita and Carlos Ganan and Michel van Eeten and Katsunari Yoshioka and Tsutomu Matsumoto},
+  booktitle={Proceedings of the 43rd IEEE Symposium on
+Security and Privacy (S&P 2022)},pages={12},
+url={https://chganan.github.io/carlos/papers/exposed-sp.pdf},
+  year={2022}
+}
+
+
+
+@article{tanabe2022disposable,
+  title={Disposable Botnets: Long-term Analysis of IoT Botnet Infrastructure},
+  author={Rui Tanabe and Tatsuya Tamai and Akira Fujita and Ryoichi Isawa and Katsunari Yoshioka and Tsutomo Matsumoto and Carlos Gañán and Michel van Eeten},
+  journal={Journal of Information Processing},
+  volume={30},
+  pages={577--590},
+  year={2022},
+  url={https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_577/_pdf},
+  publisher={Information Processing Society of Japan}
+}
+
+@inproceedings{fiebig2022heads,
+  title={Heads in the Clouds? Measuring Universities' Migration to Public Clouds: Implications for Privacy \& Academic Freedom},
+  author={Tobias Fiebig and Seda Guerses and Carlos Ganan and Erna Kotkamp and Fernando Kuipers and Martina Lindorfer and Menghua Prisse and Taritha Sari},
+  booktitle={Proceedings on Privacy Enhancing Technologies Symposium},
+  volume={2023},
+  url={https://pure.tudelft.nl/ws/portalfiles/portal/148311996/PoPETS23.pdf},
+  number={2},pages={30},
+  year={2023}
+}
+
+@inproceedings{streibelt2023ready,
+  title={How Ready is DNS for an IPv6-Only World?},
+  author={Florian Streibelt  and Patrick Sattler  and Franziska Lichtbla and Carlos Ganan and Anja Feldmann and Oliver Gasser  and Tobias Fiebig},
+  booktitle={Passive and Active Measurement: 24th International Conference, PAM 2023},
+  pages={525--549},
+  year={2023},
+  url={https://pure.tudelft.nl/ws/portalfiles/portal/150439055/978_3_031_28486_1_22.pdf},
+  organization={Springer Nature Switzerland Cham}
+}
+
+@inproceedings{nosyk2023intercept,
+  title={Intercept and Inject: DNS Response Manipulation in the Wild},
+  author={Yevheniya Nosyk and Qasim Lone and Yury Zhauniarovich,  and  Carlos Ganan and Emile Aben  and Giovane Moura and Samaneh Tajalizadehkhoob and Andrzej Duda and Maciej Korczynski},
+  booktitle={Passive and Active Measurement: 24th International Conference, PAM 2023},
+  pages={461--478},
+  year={2023},
+  url={https://pure.tudelft.nl/ws/portalfiles/portal/151232870/978_3_031_28486_1_19.pdf},
+  organization={Springer Nature Switzerland Cham}
+}
+
+@inproceedings{streibelt2023back,
+  title={Back-to-the-Future Whois: An IP Address Attribution Service for Working with Historic Datasets},
+  author={Florian Streibelt and Martina Lindorfer and Seda Gurses and Carlos Ganan and Tobias Fiebig},
+  booktitle={Passive and Active Measurement: 24th International Conference, PAM 2023},
+  pages={209--226},
+  year={2023},
+  url={https://pure.tudelft.nl/ws/portalfiles/portal/150437341/978_3_031_28486_1_10.pdf},
+  organization={Springer Nature Switzerland Cham}
+}
+
+@inproceedings{kustosch2023measuring,
+  title={Measuring Up to Reasonable Consumer Expectations: Providing an Empirical Basis for Holding IoT Manufacturers Legally Responsible},
+  author={Lorenz Kustosch and Carlos Gañán and Mattis van Schip  and Michel van Eeten and Simon Parkin},
+  booktitle={Proceedings of the 32nd USENIX Security Symposium},
+  pages={12},
+  year={2023},
+  url={https://chganan.github.io/carlos/papers/IoT_User_USENIX.pdf},
+  organization={USENIX}
+}
+
+
+@inproceedings{rodriguez2023two,
+  title={Two Sides of the Shield: Understanding Protective DNS adoption factors},
+  author={Elsa Rebeca Turcios Rodríguez  and Radu Anghel and Simon Parkin and  Michel van Eeten and Carlos Gañán},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},pages={12},
+  url={https://chganan.github.io/carlos/papers/PDNS_USENIX.pdf},
+  year={2023}
+}
+
+@inproceedings{vetrivel2023birds,
+  title={Birds of a Feather? A Comparative Analysis of DDoS Victimisation by IoT Botnet and Amplification Attacks},
+  author={Swaathi Vetrivel  and Arman Noroozian and Daisuke Makita  and Katsunari Yoshioka  and  Michel van Eeten and Carlos Gañán},
+  booktitle={22nd Workshop on the Economics of Information Security (WEIS)},
+  url={https://chganan.github.io/carlos/papers/DDoS_WEIS.pdf},
+  year={2023},pages={12}
+}
+
+@inproceedings{lloyd2023towards,
+  title={Towards More Rigorous Domain-based Metrics: Quantifying the Prevalence and Implications of "Active" Domains},
+  author={Sion Lloyd and Carlos Gañán and Samaneh Tajalizadehkhoob},
+  booktitle={2023 IEEE European Symposium on Security and Privacy Workshops (EuroS\&PW)},
+  pages={539--545},
+  year={2023},pages={12},
+  url={https://chganan.github.io/carlos/papers/wtmc_2023.pdf},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{lloyd2023rbl,
+  title={Block and Roll: A Metric-based Evaluation of Reputation Block Lists},
+  author={Sion Lloyd and Carlos Gañán and Samaneh Tajalizadehkhoob},
+  booktitle={APWG.EU Tech 2023, June 21–22, 2023, Dublin, IE},
+  year={2023},pages={8},
+  url={https://chganan.github.io/carlos/papers/APWG_2023.pdf},
+  organization={Free Open-Access Proceedings for Computer Science Workshops}
+}
+
+@inproceedings{vetrivel2023examining,
+  title={Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices},
+  author={Swaathi Vetrivel  and Veerle van Harten and Carlos Gañán  and Michel van Eeten and Simon Parkin},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+  url={https://chganan.github.io/carlos/papers/USENIX_customer.pdf},
+  year={2023},pages={12}
+}
+
+@inproceedings{arwa2022asia,
+  title={Bin there, target that: Analyzing the target selection of IoT vulnerabilities in malware binaries},
+  author={Arwa Abdulkarim Al Alsadi and Kaichi Sameshima and Katsunari Yoshioka  and
+Michel van Eeten and Carlos H. Gañán},
+  booktitle={Proceedings of the 26th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID 2023)},pages={12},
+ url={https://chganan.github.io/carlos/papers/RAID_vul.pdf},
+ year={2023}
+}
+
+@inproceedings{trustcom,
+  title={Phish and Chips: Language-agnostic classification of unsolicited emails},
+  author={Carlos Gañán  and Sion Lloyd and Samaneh Tajalizadehkhoob},
+  booktitle={2023 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)},
+  pages={1--10},
+  year={2023},
+   url={https://chganan.github.io/carlos/papers/apwg_trustcom.pdf},
+  organization={IEEE}
+}
